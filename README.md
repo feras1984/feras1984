@@ -65,3 +65,4 @@ I am a Full Stack Developer from Syria.
 
 ### My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=feras1984&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/feras1984/github-readme-stats)
